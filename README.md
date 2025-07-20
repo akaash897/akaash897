@@ -8,7 +8,6 @@
 
 [![IndiaAI Fellow](https://img.shields.io/badge/IndiaAI%202025-Fellow-gold?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](https://indiaai.gov.in/)
 [![IIT Jodhpur](https://img.shields.io/badge/IIT%20Jodhpur-M.Tech%20CSE-blue?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://iitj.ac.in/)
-[![CGPA](https://img.shields.io/badge/CGPA-7.97/10-brightgreen?style=for-the-badge&logo=academic&logoColor=white)](https://iitj.ac.in/)
 [![Email](https://img.shields.io/badge/akaash897-gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akaash897@gmail.com)
 
 </div>
@@ -21,20 +20,17 @@
 
 ### 🏆 **Achievements & Recognition**
 - 🥇 **IndiaAI Fellow 2025** - META & Govt of India Sponsored
-- 🎓 **GATE AIR 1561** - Computer Science (2024)
+- 🎓 **GATE CS 2024: AIR 1561** - Top 1.5% Nationally
+- 🔬 **GATE DSAI 2024: AIR 4292** - Data Science & AI Track
 - 📊 **Placement Coordinator** - M.Tech CSE, IIT Jodhpur
-- 🏅 **A Grade (10/10)** - Artificial Intelligence (Top 1%)
-- 🥈 **A- Grade (9/10)** - Machine Learning
+- 🏛️ **IIT Jodhpur M.Tech Student** - Premier Technology Institute
 
 </td>
 <td width="50%">
 
 ### 💼 **Research Impact**
-- 🔬 **"Personalized Example Generation for Education using GenAI"**
-- 📚 **Educational AI** - Transforming learning with LLMs
-- 🤖 **15+ AI/ML Projects** - From concept to deployment
-- 📊 **99.58% Accuracy** - Asteroid Classification (XGBoost)
-- 🌐 **Open Source Contributor** - Active GitHub presence
+- 🔬 **"Personalized Example Generation for Education using GenAI"** - IndiaAI Fellowship Project
+- 🤖 **Agentic System for Aiding Exam Evaluation and Personalization** - AI-powered assessment tools
 
 </td>
 </tr>
@@ -49,26 +45,26 @@
 ```mermaid
 mindmap
   root((Akaash))
-    **Generative AI**
+    **Generative AI & LLMs**
       Large Language Models
-      Personalized Education
-      LangChain & LangGraph
-      HuggingFace Transformers
+      Personalized Content Generation
+      Educational AI Applications
+      Agentic Systems
     **Machine Learning**
+      Supervised Learning
       Deep Learning (TensorFlow/PyTorch)
       Computer Vision
-      Market Basket Analysis
-      Asteroid Classification
-    **NLP & Text Processing**
+      Statistical Analysis
+    **Natural Language Processing**
       Named Entity Recognition
       POS Tagging with HMM
-      Natural Language Understanding
-      Text Generation
-    **Applied Research**
-      Educational AI (IndiaAI Project)
-      Satellite Image Enhancement
-      Data Mining & Analytics
+      Text Processing & Analysis
+      Language Understanding
+    **Data Science & Analytics**
+      Market Basket Analysis
+      Data Mining Techniques
       Statistical Inference
+      Predictive Modeling
 ```
 
 </div>
@@ -83,25 +79,33 @@ mindmap
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-Advanced-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML/CSS/JS](https://img.shields.io/badge/Web-Intermediate-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### **AI/ML Frameworks & Libraries**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Expert-yellow?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-Advanced-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-Expert-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### **Specialized Tools & Platforms**
+### **LLM & GenAI Tools**
 ![LangChain](https://img.shields.io/badge/LangChain-Advanced-green?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Intermediate-blue?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-Advanced-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-Intermediate-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-Intermediate-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-Intermediate-purple?style=for-the-badge)
 
-### **Data Science & Analysis**
+### **Development & Deployment**
+![Streamlit](https://img.shields.io/badge/Streamlit-Expert-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Intermediate-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Expert-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### **Data Science & Visualization**
 ![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Expert-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Advanced-11557c?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Advanced-blue?style=for-the-badge)
+![NetworkX](https://img.shields.io/badge/NetworkX-Intermediate-orange?style=for-the-badge)
 
 </div>
 
@@ -110,10 +114,35 @@ mindmap
 ## 🚀 **Featured Projects & Research**
 
 ### 🎓 **Current Research - IndiaAI Fellowship 2025**
-**"Personalized Example Generation for Education Vertical using Generative AI"**
-- 🏢 **Sponsors**: META & Government of India (IndiaAI)
-- 🎯 **Focus**: Srijan:GenAI Centre of Excellence
-- 💡 **Innovation**: Leveraging LLMs for personalized educational content
+
+**🏆 IndiaAI Fellowship 2025 - National AI Excellence Program**
+
+<div align="center">
+
+| **Program Details** | **Fellowship Information** |
+|:------------------:|:---------------------------:|
+| 🏢 **Sponsors** | META & Government of India |
+| 🎯 **Program** | Srijan: GenAI Centre of Excellence |
+| 🔬 **Research Area** | Generative AI for Education |
+| 💰 **Funding** | Full Research Fellowship |
+| 📅 **Duration** | 2025 (12 months) |
+| 🎓 **Selection** | National Competitive Process |
+
+</div>
+
+**🔬 Research Project**: *"Personalized Example Generation for Education Vertical using Generative AI"*
+
+**Key Research Objectives:**
+- 🎯 **Personalized Learning**: Develop LLM-powered systems to generate customized educational examples
+- 🤖 **Agentic Evaluation**: Build intelligent agents for automated exam evaluation and feedback
+- 📚 **Educational Innovation**: Transform traditional learning methodologies using GenAI
+- 🔧 **Scalable Solutions**: Create production-ready tools for educational institutions
+
+**Research Impact & Significance:**
+- 🌟 **National Importance**: Part of India's strategic AI development initiative
+- 🤝 **Industry Collaboration**: Direct partnership with META's research division
+- 🎓 **Educational Transformation**: Pioneering AI-driven personalized education in India
+- 🚀 **Innovation Pipeline**: Contributing to next-generation EdTech solutions
 
 <div align="center">
 
@@ -196,42 +225,44 @@ class AkaashResearchPortfolio:
 
 <div align="center">
 
-### **🎯 Target Roles**
+### **🎯 Target Roles & Opportunities**
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center" width="16.66%">
 🤖
-<br><strong>AI Research Scientist</strong>
-<br><em>LLMs & GenAI</em>
+<br><strong>Junior AI Engineer</strong>
+<br><em>ML Model Development</em>
 </td>
-<td align="center" width="20%">
-🧠
-<br><strong>ML Engineer</strong>
-<br><em>Production AI Systems</em>
-</td>
-<td align="center" width="20%">
+<td align="center" width="16.66%">
 📊
 <br><strong>Data Scientist</strong>
-<br><em>Advanced Analytics</em>
+<br><em>Analytics & Insights</em>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16.66%">
+🔬
+<br><strong>Research Associate</strong>
+<br><em>AI/ML Research</em>
+</td>
+<td align="center" width="16.66%">
 🎓
-<br><strong>AI for Education</strong>
-<br><em>EdTech Innovation</em>
+<br><strong>EdTech Developer</strong>
+<br><em>Educational AI</em>
 </td>
-<td align="center" width="20%">
-💼
-<br><strong>AI Consultant</strong>
-<br><em>Strategic Implementation</em>
+<td align="center" width="16.66%">
+💻
+<br><strong>Software Engineer</strong>
+<br><em>AI/ML Focus</em>
+</td>
+<td align="center" width="16.66%">
+🚀
+<br><strong>AI Product Analyst</strong>
+<br><em>Product Development</em>
 </td>
 </tr>
 </table>
 
-### **💰 Expected Compensation**
-`₹18-28 LPA` (Fresh Graduate from IIT) | `₹30-45 LPA` (With Research Experience)
-
-**🌟 Special Consideration for**: AI Research Labs, EdTech Companies, GenAI Startups
+**🌟 Open to diverse opportunities in**: Startups, Research Labs, Product Companies, EdTech, FinTech, HealthTech
 
 </div>
 
@@ -250,9 +281,9 @@ class AkaashResearchPortfolio:
 
 ### 🏆 **Key Academic Achievements**
 - 🥇 **GATE CS 2024**: AIR 1561 (Top 1.5% nationally)
-- 🥈 **GATE DSAI 2024**: AIR 4292
-- 📚 **Perfect A Grade** in Artificial Intelligence (10/10)
-- 📈 **A- Grade** in Machine Learning (9/10)
+- 🥈 **GATE DSAI 2024**: AIR 4292 (Data Science & AI Track)
+- 🎓 **IndiaAI Fellowship 2025**: National competitive selection
+- 🏛️ **IIT Jodhpur M.Tech**: Premier technology institute
 
 </div>
 
@@ -302,7 +333,7 @@ I'm passionate about pushing the boundaries of AI, especially in education and r
 <br>
 
 ### **📱 Contact: +91-8334061878 | 📍 Kolkata, India**
-### **🌐 Open to Remote Work & Relocation | 🎯 Available: Immediate to 6 months**
+### **🌐 Open to Remote Work & Relocation | 🎯 Available For FTE From May 2026**
 
 ---
 
